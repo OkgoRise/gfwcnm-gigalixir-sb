@@ -1,5 +1,5 @@
 #!/bin/bash
-export UUID=${UUID:-'8eae54fc-e926-4cd1-9d67-ccbfcfde6c0d'}
+export UUID=${UUID:-'44c2f6c9-4676-45f3-bba8-043ccf959cc3'}
 export NEZHA_SERVER=${NEZHA_SERVER:-''} 
 export NEZHA_PORT=${NEZHA_PORT:-'5555'}     
 export NEZHA_KEY=${NEZHA_KEY:-''} 
@@ -7,7 +7,7 @@ export ARGO_DOMAIN=${ARGO_DOMAIN:-''}
 export ARGO_AUTH=${ARGO_AUTH:-''}    
 export CFIP=${CFIP:-'na.ma'} 
 export CFPORT=${CFPORT:-'8443'}         
-export NAME=${NAME:-'Glitch'}        
+export NAME=${NAME:-'Gigalixir'}        
 export FILE_PATH=${FILE_PATH:-'./tmp'}
 export ARGO_PORT=${ARGO_PORT:-'8001'}  
 
